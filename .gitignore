@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Large datasets
+dataset/
+converted/
+
+# Large Hadoop output
+results/product_analytics.tsv
+
+# Temporary files
+*.log
+.DS_Store
+
+# Downloaded test data
+dataset/test_reviews.tsv.gz
+
+# ML training sample
+ml/reviews_sample.csv
