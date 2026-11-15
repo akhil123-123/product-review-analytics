@@ -9,8 +9,8 @@ It combines large-scale product review analytics with sentiment classification u
 - Dataset: Amazon Reviews 2023 - Electronics
 - Platform: Hugging Face
 - URL: https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
-- Total Reviews: 43,886,944
-- Unique Products: 1,946,161
+- Total Reviews: 44,512,987
+- Unique Products: 1,953,407
 
 ## Technologies Used
 - Python 3.14.1
@@ -51,8 +51,8 @@ The initial ML experiment used 15,600 balanced reviews sampled from the first Pa
 | Recall | 86.09% |
 | F1 Score | 87.31% |
 
-Training samples: 12,480  
-Testing samples: 3,120
+Training samples: 12,680  
+Testing samples: 3,220
 
 ## Hadoop Results
 
