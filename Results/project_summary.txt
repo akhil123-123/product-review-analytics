@@ -1,0 +1,24 @@
+PROJECT: Product Review Analytics Using Hadoop MapReduce & Machine Learning
+
+DATASET: Amazon Reviews 2023 - Electronics
+
+TOTAL INPUT REVIEWS: 43,886,944
+VALID REVIEWS PROCESSED: 43,886,942
+EXCLUDED REVIEWS: 2
+UNIQUE PRODUCTS: 1,946,161
+
+OVERALL AVERAGE RATING: 4.09923
+
+RATING DISTRIBUTION:
+1-Star Reviews: 5,358,800
+2-Star Reviews: 2,257,604
+3-Star Reviews: 2,883,065
+4-Star Reviews: 5,557,725
+5-Star Reviews: 27,829,748
+
+FRAMEWORK: Apache Hadoop 3.3.6
+PROCESSING: Hadoop Streaming MapReduce
+LANGUAGE: Python
+CLUSTER: Single-node pseudo-distributed
+
+OUTPUT: product_analytics.tsv
